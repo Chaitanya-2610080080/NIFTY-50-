@@ -1,0 +1,13 @@
+,IN-SAMPLE (Train),OUT-OF-SAMPLE (Test)
+trades,20.0,8.0
+gross_pnl,1434.28,659.95
+total_costs,1648.15,659.18
+net_pnl,-213.87,0.77
+win_rate_%,45.0,50.0
+avg_win,118.45,207.14
+avg_loss,-116.36,-206.95
+risk_reward,1.02,1.0
+profit_factor,0.83,1.0
+sharpe,-1.44,0.01
+max_drawdown_Rs,-690.34,-328.53
+max_drawdown_%,-0.07,-0.03
